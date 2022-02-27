@@ -32,6 +32,7 @@
     margin-bottom: 40px;
     position: relative;
     box-sizing: border-box;
+    background-color: red;
 }
 
 .timeline:before {
@@ -40,7 +41,6 @@
     left: 50%;
     width: 2px;
     height: 100%;
-    background-color: #d37070;
 }
 
 .timeline ul {
