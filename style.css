@@ -26,3 +26,19 @@
 .title h2 {
     font-weight: bold;
 }
+
+.timeline {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.timeline:before {
+    content: " ";
+    position: absolute;
+    left: 50%;
+    width: 2px;
+    height: 100%;
+    background: #c5c5c5;
+}
