@@ -11,3 +11,9 @@
     right: 8%;
     bottom: 0;
 } */
+
+@media(min-width:768) {
+    .news-input {
+        width: 50%;
+    }
+}
