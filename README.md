@@ -15,7 +15,15 @@
 
 * Open the project using your preffered editor vs code or any other .
 
-# Thank you and enjoy the project 
+## Thank you and enjoy the project 
+
+
+## License 
+* This is the link to my license [license](LICENSE)
+
+
+
+
 
 
 
