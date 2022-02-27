@@ -23,4 +23,6 @@
     color: white;
 }
 
-.container h2 {}
+.title h2 {
+    font-weight: bold;
+}
