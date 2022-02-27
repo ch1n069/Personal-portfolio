@@ -17,3 +17,10 @@
         width: 50%;
     }
 }
+
+#client {
+    background-color: #34465D;
+    color: white;
+}
+
+.container h2 {}
